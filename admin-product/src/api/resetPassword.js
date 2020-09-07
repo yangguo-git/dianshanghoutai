@@ -1,0 +1,1 @@
+export const adminPwdIF = '/busi/user/pwd' //修改密码
